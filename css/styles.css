@@ -3,6 +3,12 @@ YOUR STYLES
 *******************/
 
 
+h1 {
+    font-family: avenir;
+    color: deeppink;
+    font-size: 5em;
+    text-align: center;
+}
 
 
 /********************
